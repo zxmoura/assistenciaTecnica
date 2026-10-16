@@ -1,5 +1,6 @@
 import os
 import time
+import math
 
 chamados = []
 proximo_id = 1
